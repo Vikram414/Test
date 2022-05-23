@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+th,td{
+    border: 1px solid #000;
+}
+table,input,button{
+    padding:10px;
+    border:2px solid black;
+    margin:10px;
+}
